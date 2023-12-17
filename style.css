@@ -100,3 +100,9 @@ img {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 900px) {
+  .col-6 {
+    width: 100%;
+  }
+}
